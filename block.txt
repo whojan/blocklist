@@ -123,3 +123,9 @@
 127.0.0.1 analyticsengine.s3.amazonaws.com
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 advice-ads.s3.amazonaws.com
+127.0.0.1 log.byteoversea.com
+127.0.0.1 extmaps-api.yandex.net
+127.0.0.1 offerwall.yandex.net
+127.0.0.1 adtago.s3.amazonaws.com
+127.0.0.1 analyticsengine.s3.amazonaws.com
+127.0.0.1 advice-ads.s3.amazonaws.com

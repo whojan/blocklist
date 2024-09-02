@@ -82,18 +82,11 @@
 127.0.0.1 data.mistat.rus.xiaomi.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 data.mistat.india.xiaomi.com
-127.0.0.1 static.doubleclick.net
-127.0.0.1 media.net
-127.0.0.1 click.googleanalytics.com
+127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 events.redditmedia.com
-127.0.0.1 tools.mouseflow.com
-127.0.0.1 adfox.yandex.ru
-127.0.0.1 analytics.pointdrive.linkedin.com
-127.0.0.1 stats.wp.com
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 bdapi-ads.realmemobile.com
-127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 app.getsentry.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 analytics.yahoo.com
@@ -117,3 +110,5 @@
 127.0.0.1 analyticsengine.s3.amazonaws.com
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 advice-ads.s3.amazonaws.com
+127.0.0.1 gemini.yahoo.com
+127.0.0.1 adtech.yahooinc.com
